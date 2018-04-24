@@ -71,7 +71,9 @@ namespace ArbolBinario
             }
 
 
-
+            // info :https://msdn.microsoft.com/es-es/library/f02979c7(v=vs.110).aspx
+            //      :https://codereview.stackexchange.com/questions/132560/generic-binary-tree-in-c
+            //      :https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/
             Console.ReadLine();
         }
     }
